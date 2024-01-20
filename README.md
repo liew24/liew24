@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm LIEW CHOON PANG</h1>
-![2560px-Hello_(yellow) svg](https://github.com/liew24/liew24/assets/148433817/9b2858ac-9418-4b1b-a0aa-d5a0448cebad)
-
 <h3 align="center">A student from UTM, study Graphics and Multimedia Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liew24&label=Profile%20views&color=0e75b6&style=flat" alt="liew24" /> </p>
