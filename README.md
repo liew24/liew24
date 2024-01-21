@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm LIEW CHOON PANG</h1>
 <h3 align="center">A student from UTM, study Graphics and Multimedia Software</h3>
+[modul 2.pptx](https://github.com/liew24/liew24/files/14000514/modul.2.pptx)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liew24&label=Profile%20views&color=0e75b6&style=flat" alt="liew24" /> </p>
 
