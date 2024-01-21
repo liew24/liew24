@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/liew24](https://github.com/liew24)
+- 👨‍💻 All of my projects are available at [https://github.com/liew24]([https://github.com/liew24](https://github.com/liew24/TECHNOLOGY-AND-INFORMATION-SYSTEM))
 
 - 💬 Ask me about **C++**
 
