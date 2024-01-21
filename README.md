@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liew24" alt="liew24" /></a> </p>
 
+<h1 align="center">About Me </h1>
+- Hello there! I'm Liew Choon Pang😊 I'm thrilled to be a first-year student embarking on the exciting journey of success here at UTM. I'm a passionate computer science student with a deep curiosity for unraveling the complexities of the digital realm. Currently pursuing my degree, I thrive on the challenges of coding and problem-solving, transforming abstract concepts into tangible solutions. My journey in computer science is marked by a love for innovation, with a particular interest in software development and artificial intelligence.
+
 <h1 align="center">HERE ARE MY TIS ASSIGNMENTS </h1>
 - 👨‍💻 All of my assignments and reflections are available at https://github.com/liew24/TECHNOLOGY-AND-INFORMATION-SYSTEM
 
