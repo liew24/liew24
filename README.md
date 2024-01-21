@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm LIEW CHOON PANG</h1>
 <h3 align="center">A student from UTM, study Graphics and Multimedia Software</h3>
 
+<img align="" alt="Coding" width="400" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c291cmNlJTIwY29kZXxlbnwwfHwwfHx8MA%3D%3D"> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liew24&label=Profile%20views&color=0e75b6&style=flat" alt="liew24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liew24" alt="liew24" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
-
 <h1 align="center">HERE ARE MY TIS ASSIGNMENTS </h1>
 - 👨‍💻 All of my assignments and reflections are available at https://github.com/liew24/TECHNOLOGY-AND-INFORMATION-SYSTEM
+
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **C++**
 
