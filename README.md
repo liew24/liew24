@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIEW CHOON PANG</h1>
-<h3 align="center">A student from UTM, study Graphics and Multimedia Software</h3>
+<h3 align="center">A student from UTM, studying Graphics and Multimedia Software</h3>
 
 <img align="" alt="Coding" width="400" src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c291cmNlJTIwY29kZXxlbnwwfHwwfHx8MA%3D%3D"> </p>
 
